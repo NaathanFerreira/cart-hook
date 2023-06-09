@@ -15,13 +15,13 @@ or remove products from a cart, that is stored in local storage. The application
 
 ### 🛠 Technologies
 
-- React
-- React Context Api
-- React Router Dom
-- Styled Components
-- TypeScript
-- Axios
-- Json Server
+- [React](https://react.dev/)
+- [ReactContextApi](https://legacy.reactjs.org/docs/context.html)
+- [ReactRouterDom](https://reactrouter.com/en/main)
+- [StyledComponents](https://styled-components.com/docs)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
+- [JsonServer](https://www.npmjs.com/package/json-server)
 ---
 
 ### 🎲 Run
